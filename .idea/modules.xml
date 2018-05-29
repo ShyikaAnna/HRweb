@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HRweb.iml" filepath="$PROJECT_DIR$/.idea/modules/HRweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HRweb/.idea/modules/HRweb_main.iml" filepath="$PROJECT_DIR$/../HRweb/.idea/modules/HRweb_main.iml" group="HRweb" />
+      <module fileurl="file://$PROJECT_DIR$/../HRweb/.idea/modules/HRweb_test.iml" filepath="$PROJECT_DIR$/../HRweb/.idea/modules/HRweb_test.iml" group="HRweb" />
+    </modules>
+  </component>
+</project>
